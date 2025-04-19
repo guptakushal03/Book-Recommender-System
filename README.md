@@ -1,4 +1,4 @@
-# Book Recommender System with Streamlit
+# Book Recommender System
 
 This Python script creates a book recommender system with a user-friendly interface using Streamlit, a Python library for building web applications. The system allows users to select a book from a dataset and receive recommendations based on the similarity of books in the dataset.
 
